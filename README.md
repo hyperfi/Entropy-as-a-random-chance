@@ -34,5 +34,7 @@ The basis idea is to create a superposition of multiple using a bunch of Hadamar
 
 Now if we let the system switch between mictostates randomly with by utlizing the output of the above circuit and measure the entropy every time we will find that with enough meadurement that the state with highest number of microstates, i.e., with the higheest entropy has the highest probability of happening. The following figure show the distribition of entropy of a system after 800 random switches which start out in a zero entropy state
 
-![image](https://user-images.githubusercontent.com/51285582/200149228-15161f5b-8862-4613-b771-0ae658a677e4.png)
+![image](https://user-images.githubusercontent.com/51285582/200149258-02b59a20-9606-41cb-b8a0-f68f45ab1aa4.png)
+ 
+It is clear that the state with highest entropy has the highest probability and thus we observe a higher entropy state in every system with time because of purely statistical nature just like the if you have more 1 million black balls in a bag and 5 red balls and 2 blue balls and you choose randomly you will most likely to choose a black ball than any of the other and that is not due to some magical law say that nature prefer black color its just statistical similar to entropy where a state with higher entropy has higher probability and thus more likely than not we find systems favoring a higher entropy state.
 
