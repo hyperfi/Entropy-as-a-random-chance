@@ -32,4 +32,7 @@ The basis idea is to create a superposition of multiple using a bunch of Hadamar
 
 ![image](https://user-images.githubusercontent.com/51285582/200149103-1e8885fc-6fc0-46b5-a0a8-13b5d7183c51.png)
 
+Now if we let the system switch between mictostates randomly with by utlizing the output of the above circuit and measure the entropy every time we will find that with enough meadurement that the state with highest number of microstates, i.e., with the higheest entropy has the highest probability of happening. The following figure show the distribition of entropy of a system after 800 random switches which start out in a zero entropy state
+
+![image](https://user-images.githubusercontent.com/51285582/200149228-15161f5b-8862-4613-b771-0ae658a677e4.png)
 
