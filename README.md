@@ -1,5 +1,5 @@
 # Why does time flow in one direction?
-The direction of flow of time is determined by the Second Law of Thermodynamics which says Entropy always a positive number or zero but never decreases. That is how we know time is actually moving when we see ice melting or a coffee getting colder when left alone, both are the example of increasing entropy. 
+The direction of flow of time is determined by the Second Law of Thermodynamics which says change in Entropy is always a positive number or zero but never decreases. That is how we know time is actually moving when we see ice melting or a coffee getting colder when left alone, both are the example of increasing entropy. 
 
 Well what is entropy?
 
